@@ -1,6 +1,4 @@
-# React + Vite
 # CRUD App with Redux
-
 ## Proje Açıklaması
 
 Bu proje, kullanıcıların verileri oluşturup (Create), okuyup (Read), güncelleyip (Update) ve silebileceği (Delete) bir CRUD uygulamasıdır. Uygulama, kullanıcı arayüzünü yönetmek için Redux kullanmaktadır.
